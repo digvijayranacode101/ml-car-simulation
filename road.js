@@ -48,7 +48,7 @@ class Road {
             ctx.moveTo(border[0].x, border[0].y);
             ctx.lineTo(border[1].x, border[1].y);
             ctx.stroke();
-        }
+            }
         );
         // ctx.beginPath();
         // ctx.moveTo(this.right, this.top);
